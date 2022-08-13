@@ -18,6 +18,6 @@ def square_digits(num):
 def square_digits(num):
     return int(''.join(str(int(d)**2) for d in str(num)))
 
-# new pull request
+# for review code
 
 
